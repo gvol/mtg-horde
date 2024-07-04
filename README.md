@@ -56,3 +56,8 @@ Then in `decks/index.js`, export the generated json file.
     npm install
     npm run build
     npm run preview
+
+## Adding new decks
+
+Add a file in "normal" format
+... Finish this
